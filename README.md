@@ -1,0 +1,1 @@
+# Inten_OpenVINO_EdgeApp_ChallengeCourse
