@@ -1,4 +1,5 @@
 # Intel_OpenVINO_EdgeApp_ChallengeCourse
+* ## [Summary](https://nbviewer.jupyter.org/github/OnePiece101/Inten_OpenVINO_EdgeApp_ChallengeCourse/blob/master/Intel_AI_Foundational_Course.ipynb) of the exercises in the intro of the challenge course
 * ## Project Showcase
   * **Project Name:** Pet Characterization
   * **Project Story:** Whenever I see a pet, whether it is a dog, or a cat, or even a bird, I always want to know what its breed is, what kinds of characteristics the pet has, e.g. active/quiet/aggressive. And as an owner of any pet, he or she must want to know what the dietary preference the pet has. For that purpose, an edge app could be developed with the output including 4 classes: type, breed, characteristics, dietary preference. Since the app will be deployed at the edge, it would reduce network communications and free up computation compared to cloud usage. 
